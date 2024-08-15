@@ -155,7 +155,9 @@ form button {
     }
 
     #search-result img {
-        height: 150px;
+        height: 200px;
+        width: 320px;
+        object-fit: cover;
     }
 
     #show-more-btn {
